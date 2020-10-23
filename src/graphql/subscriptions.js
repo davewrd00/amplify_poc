@@ -1,5 +1,5 @@
 /* eslint-disable */
-// this is an auto generated file. This will be overwritten.
+// this is an auto generated file. This will be overwritten
 
 export const onCreateNote = /* GraphQL */ `
   subscription OnCreateNote {
